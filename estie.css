@@ -1,0 +1,26 @@
+.index__txt { 
+  top:32%;
+  }
+  
+  .index__txt-desc {
+  color:#fff !important;
+  font-size: 25px;
+
+  }
+  
+  .index__logo {
+  top:70%;
+  z-index:99999;
+  
+  
+  }
+  
+  .index__logo {
+  background-image:url(https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9tV8IDAtUfLy6NEyd6g5SRG0AFbnoYLIz5Ul139ISCDJIEq1EA6Wfo9qbzjAD3EmZrwUfQ_ibURvB9YVdTOclnVd1pfbkxNlYjBlHeJTcLsXW1PXDIFJ63Uj1vSyp0HdNct20duTMkIy7-YkGfNKTst6p_igbmi5jmZh0QhTtuji0SIoHHE5NP-Q6_Sbj/s16000/%EB%A6%AC%EB%8B%88%EC%A7%80%EB%A1%9C%EA%B3%A05.png);
+ 
+  }
+  
+  .index__txt-tit {
+  background-image:url(https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYWk5RKZFOF8eAE4t6Gse5_ykg4-v4T8d4EIHG1PuH7K6J3uPIhbtk9LZ4MTps4PyytOOi4j_MpbeCbVf_xdbgwmSdoPBVcht54r8vOGbltjHfXky-aHOABl1hyyMguK9PtWNW-hDH1rzkCQhKllxsfCG2cfCINeXX_p8XLhQaKVAkkykks5xorFfluJp8/s16000/%EB%85%B8%EC%9D%84%EB%A1%9C%EA%B7%B83.png);
+
+  }
